@@ -65,7 +65,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMoreLinkDest = "recetas/"
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
@@ -86,9 +86,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = false
+  
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
+  
   showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
@@ -164,7 +166,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [buymeacoffee]
   identifier = "anduwet2h"
   globalWidget = true
-  globalWidgetMessage = "Un café? 👉"
+  globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "right"
 

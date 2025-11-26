@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Magdalenas veganas esponjosas
+title: Magdalenas de algarroba esponjosas
 date: 2025-11-14
 tags: [postre, desayuno, fácil]
 draft: false
 ---
 
-![Magdalenas veganas esponjosas con trocitos de chocolate](featured.jpg)
+![Magdalenas veganas de algarroba con trocitos de chocolate](featured.jpg)
 
 ## Ingredientes
 > ### Secos
