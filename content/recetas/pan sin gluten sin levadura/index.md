@@ -2,13 +2,15 @@
 layout: post
 title: Pan sin gluten sin levadura
 date: 2025-11-26
-tags: [pan, sin gluten, sin levadura, panificadora]
+tags: [pan, sin gluten, sin levadura, panificadora, neutro, ligeramente frío]
 draft: false
 ---
 
 ![Pan sin gluten sin levadura](featured.jpg)
 
->Receta para pan sin gluten ni levadura, usando modo solo horneado de panificadora.
+> Receta para pan sin gluten ni levadura, usando modo solo horneado de panificadora.
+> - Muy digestivo y liviano
+> - 🪷 Energía MTC: neutra-ligeramente fría
 
 ## Ingredientes
 
