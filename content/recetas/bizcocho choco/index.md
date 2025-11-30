@@ -2,8 +2,9 @@
 layout: post
 title: Bizcocho de chocolate
 date: 2025-09-21
-# category: [bizcocho, postre]
+category: [dulce]
 tags: [postre, bizcocho, chocolate, panificadora]
+draft: false
 ---
 
 ![Bizcocho de chocolate](featured.jpg)

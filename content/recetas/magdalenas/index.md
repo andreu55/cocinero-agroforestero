@@ -2,6 +2,7 @@
 layout: post
 title: Magdalenas de algarroba esponjosas
 date: 2025-11-14
+category: [dulce]
 tags: [postre, desayuno, fácil]
 draft: false
 ---

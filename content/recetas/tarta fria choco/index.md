@@ -2,6 +2,7 @@
 layout: post
 title: Tarta de Chocolate Sin Horno
 date: 2025-11-14
+category: [postre, dulce]
 tags: [postre, fácil, sin-horno]
 draft: false
 ---

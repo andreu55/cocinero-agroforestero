@@ -2,6 +2,7 @@
 layout: post
 title: Pan sin gluten sin levadura
 date: 2025-11-26
+category: [pan, sin gluten, sin levadura]
 tags: [pan, sin gluten, sin levadura, panificadora, neutro, ligeramente frío]
 draft: false
 ---

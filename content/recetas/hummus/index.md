@@ -2,7 +2,7 @@
 layout: post
 title: Hummus Clásico
 date: 2025-09-16
-# category: [vegano]
+category: [para compartir, salado]
 tags: [aperitivo, mediterráneo, fácil]
 draft: false
 ---
