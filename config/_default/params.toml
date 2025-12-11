@@ -15,7 +15,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-# mainSections = ["recetas"]
+mainSections = ["recetas"]  # Solo incluir recetas en la búsqueda
 # robots = ""
 
 disableImageOptimization = false
