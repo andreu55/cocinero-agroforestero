@@ -13,7 +13,7 @@ canonifyURLs = true
 # Configuración específica para GitHub Pages
 [permalinks]
   # Ruta base para todas las páginas
-  _default = "/cocinero-agroforestero/:sections/:title/"
+  _default = "/cocinero-agroforestero/:sections/:contentbasename/"
   
   # Configuración específica para taxonomías
   tags = "/cocinero-agroforestero/tags/:title/"
