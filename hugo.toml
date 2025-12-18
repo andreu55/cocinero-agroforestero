@@ -12,7 +12,7 @@ title = "Recetas de un cocinero agroforestero"
 # Configuración específica para GitHub Pages
 [permalinks]
   # Ruta base para todas las páginas
-  _default = "/cocinero-agroforestero/:sections/:slug/"
+  _default = "/:sections/:slug/"
   
   # Configuración específica para taxonomías
   tags = "/cocinero-agroforestero/tags/:title/"
