@@ -10,7 +10,7 @@ title = "Recetas de un cocinero agroforestero"
 # canonifyURLs = true
 
 # Configuración específica para GitHub Pages
-# [permalinks]
+[permalinks]
   # Ruta base para todas las páginas
   # _default = "/:sections/:slug/"
   
