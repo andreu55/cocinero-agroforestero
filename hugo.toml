@@ -1,17 +1,23 @@
-baseURL = "https://andreu55.github.io/cocinero-agroforestero/"
+baseURL = "/"
 languageCode = "es"
 title = "Recetas de un cocinero agroforestero"
 theme = "blowfish"
 
 # Configuración de URLs
-relativeURLs = true # Para GitHub Pages, es mejor usar relativeURLs = true
+relativeURLs = false
 uglyURLs = false
 canonifyURLs = true
+
+# Configuración de entorno
+[production]
+  baseURL = "https://andreu55.github.io/cocinero-agroforestero/"
+  [production.params]
+    env = "production"
 
 # Configuración específica para GitHub Pages
 [permalinks]
   # Ruta base para todas las páginas
-  _default = "/cocinero-agroforestero/:sections/:slug/"
+  _default = "/:sections/:slug/"
   
   # Configuración específica para taxonomías
   tags = "/cocinero-agroforestero/tags/:title/"
