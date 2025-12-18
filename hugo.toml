@@ -4,10 +4,8 @@ title = "Recetas de un cocinero agroforestero"
 theme = "blowfish"
 
 # Configuración de URLs
-relativeURLs = false
+relativeURLs = true # Para GitHub Pages, es mejor usar relativeURLs = true
 uglyURLs = false
-
-# Asegura que las URLs incluyan la ruta base
 canonifyURLs = true
 
 # Configuración específica para GitHub Pages
