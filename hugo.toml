@@ -4,9 +4,9 @@ title = "Recetas de un cocinero agroforestero"
 theme = "blowfish"
 
 # Configuración de URLs
-relativeURLs = true
-uglyURLs = false
-canonifyURLs = true
+# relativeURLs = false
+# uglyURLs = false
+# canonifyURLs = true
 
 # Configuración de entorno
 [production]
