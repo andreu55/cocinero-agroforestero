@@ -22,4 +22,4 @@ title = "Recetas de un cocinero agroforestero"
   
   # Configuración específica para la sección de recetas
   # Usamos :contentbasename para que mantenga el nombre de la carpeta
-  # recetas = "/cocinero-agroforestero/recetas/:contentbasename/"
+  recetas = "/cocinero-agroforestero/recetas/:contentbasename/"
