@@ -12,14 +12,14 @@ title = "Recetas de un cocinero agroforestero"
 # Configuración específica para GitHub Pages
 [permalinks]
   # Ruta base para todas las páginas
-  _default = "/cocinero-agroforestero/:sections/:slug/"
+  _default = "cocinero-agroforestero/:sections/:slug/"
   
   # Configuración específica para taxonomías
-  tags = "/cocinero-agroforestero/tags/:title/"
-  categories = "/cocinero-agroforestero/categories/:title/"
-  authors = "/cocinero-agroforestero/authors/:title/"
-  series = "/cocinero-agroforestero/series/:title/"
+  tags = "cocinero-agroforestero/tags/:title/"
+  categories = "cocinero-agroforestero/categories/:title/"
+  authors = "cocinero-agroforestero/authors/:title/"
+  series = "cocinero-agroforestero/series/:title/"
   
   # Configuración específica para la sección de recetas
   # Usamos :contentbasename para que mantenga el nombre de la carpeta
-  recetas = "/cocinero-agroforestero/recetas/:contentbasename/"
+  recetas = "cocinero-agroforestero/recetas/:contentbasename/"
