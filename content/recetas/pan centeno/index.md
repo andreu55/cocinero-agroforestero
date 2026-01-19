@@ -3,7 +3,7 @@ layout: post
 title: Pan de centeno integral digestivo
 date: 2025-11-30
 category: [pan, masa madre, salado]
-tags: [pan, sin gluten, sin levadura, panificadora, neutro, ligeramente frío]
+tags: [pan, masa madre, panificadora]
 draft: false
 ---
 
@@ -13,13 +13,14 @@ draft: false
 > ⚖️ Peso final aprox.: 1 kg  
 > ⏰ Fermentación lenta (6–8 h a 15–19 °C)  
 > ✨ Método digestivo
+> 🪷 Energía MTC: neutro, ligeramente frío
 
 ### 🌾 Ingredientes
 
 - 450 g de harina integral de centeno  
 - 100 g de harina de trigo blanca (si de fuerza, usar +40ml de agua!)
 - 450 ml de agua templada (35–40 °C)
-- 120 g de [[Masa madre]] de espelta activa (100 % hidratación)  
+- 120 g de masa madre de espelta activa (100 % hidratación)  
 - 4 g de levadura fresca  
 - 8 g de sal marina  
 - 6 g de panela (1 cucharadita rasa)

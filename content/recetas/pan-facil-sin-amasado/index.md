@@ -18,7 +18,7 @@ draft: false
 
 ### Mezcla seca
 
-- Harina de trigo panificable (500 g)
+- Harina de trigo (500 g)
 - Levadura seca de panadero (5 g)
 - Sal marina fina (10 g)
 
@@ -26,8 +26,7 @@ draft: false
 
 - Agua templada (375 ml)
     - Uso completo en la mezcla
-- Aceite de oliva virgen extra (1 cucharada, opcional)
-- —  
+- Aceite de oliva virgen extra (1 cucharada, opcional, pero gana en textura)
 
 ## Preparación
 
@@ -36,7 +35,7 @@ En un bol grande mezcla bien la harina, la sal y la levadura seca.
 
 ### Paso 2: Mezcla húmeda
 Añade el agua templada y el aceite.  
-Mezcla con cuchara o con la mano **solo hasta que no quede harina seca**.  
+Mezcla con cuchara o con la mano **solo hasta que no quede harina seca**, no hace falta amasar de más.  
 La masa será blanda y pegajosa: es lo deseable.
 
 ### Paso 3: Proceso
