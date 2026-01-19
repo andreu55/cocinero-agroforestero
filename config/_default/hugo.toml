@@ -1,13 +1,14 @@
-# -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
+# -- Site Configuration --
 baseURL = "https://andreu55.github.io/cocinero-agroforestero/"
 languageCode = "es"
 title = "Recetas de un cocinero agroforestero"
 theme = "blowfish"
 
-canonifyURLs = true
+# CRÍTICO para GitHub Pages con subdirectorio
+relativeURLs = false
+canonifyURLs = false
 
 defaultContentLanguage = "es"
 archetypeDir = "archetypes"
